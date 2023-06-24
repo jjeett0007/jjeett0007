@@ -74,7 +74,7 @@
 <h4 align="left">Database</h4>
 <p align="left"><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png"
-      alt="mongodb" width="40" height="40" /> </a></p>
+      alt="mongodb" width="80" height="40" /> </a></p>
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
