@@ -69,6 +69,13 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs" width="80" height="80" /> </a></p>
 
+<br>
+
+<h4 align="left">Database</h4>
+<p align="left"><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png"
+      alt="mongodb" width="40" height="40" /> </a></p>
+
 <h3>Statistical Data :-</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=jjeett0007&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
