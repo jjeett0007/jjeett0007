@@ -74,9 +74,9 @@
 <h4 align="left">Database</h4>
 <p align="left"><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png"
-      alt="mongodb" width="100" height="40" /> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
+      alt="mongodb" width="auto" height="40" /> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Firebase_Logo.svg/2560px-Firebase_Logo.svg.png"
-      alt="html5" width="100" height="40" /> </a> </p>
+      alt="html5" width="auto" height="40" /> </a> </p>
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
