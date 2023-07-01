@@ -64,7 +64,7 @@
 
 <br>
 
-<h4 align="left">Backebd</h4>
+<h4 align="left">Backend</h4>
 <p align="left"><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs" width="80" height="80" /> </a></p>
