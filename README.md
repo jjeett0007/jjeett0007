@@ -54,6 +54,9 @@
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
       src="https://camo.githubusercontent.com/769d64257e64f85884c9a580f9d6596b90349f20cf687e013eab5f4d28eddb0c/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f747970657363726970742d322e737667"
       alt="react" width="40" height="40" /> </a>
+      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1280px-Nextjs-logo.svg.png"
+      alt="react" width="40" height="40" /> </a>
        <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
       height="40" /> </a> </p>
