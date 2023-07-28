@@ -56,7 +56,7 @@
       alt="react" width="40" height="40" /> </a>
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1280px-Nextjs-logo.svg.png"
-      alt="react" width="40" height="40" /> </a>
+      alt="react" width="80" height="40" /> </a>
        <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
       height="40" /> </a> </p>
