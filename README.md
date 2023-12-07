@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Olayinka Daniel</h1>
-<h3 align="center">A Frontend Engineer</h3>
+<h3 align="center">A Fullstack Developer</h3>
 
 <br>
 
@@ -12,7 +12,7 @@
 <p><img align="right" src="https://github.com/jjeett0007/jjeett0007/blob/main/animation_500_kxa883sd.gif" alt="jjeett0007" /></p>
 
 
-- 🌱 I’m currently learning NextJS
+- 🌱 I’m currently learning Python
 
 - 📫 How to reach me **apply_jet@yahoo.com**
 
