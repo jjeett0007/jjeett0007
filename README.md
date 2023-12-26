@@ -12,7 +12,7 @@
 <p><img align="right" src="https://github.com/jjeett0007/jjeett0007/blob/main/animation_500_kxa883sd.gif" alt="jjeett0007" /></p>
 
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Flutter
 
 - 📫 How to reach me **apply_jet@yahoo.com**
 
