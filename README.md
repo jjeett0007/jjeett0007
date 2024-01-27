@@ -44,30 +44,36 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
       width="40" height="40" /> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
           <br>
+          <br>
           <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="html5" width="40" height="40" /> </a> </a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
     rel="noreferrer"> 
           <br>
+          <br>
           <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript" width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+          <br>
           <br>
           <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" /> </a>
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
           <br>
+          <br>
           <img
       src="https://camo.githubusercontent.com/769d64257e64f85884c9a580f9d6596b90349f20cf687e013eab5f4d28eddb0c/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f747970657363726970742d322e737667"
       alt="react" width="40" height="40" /> </a>
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
           <br>
+          <br>
           <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1280px-Nextjs-logo.svg.png"
       alt="react" width="80" height="40" /> </a>
        <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
+           <br>
            <br>
            <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
