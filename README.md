@@ -9,6 +9,10 @@
 
 <br>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jjeett0007" alt="jet" /></a> </p>
+
+<br>
+
 <p><img align="right" src="https://github.com/jjeett0007/jjeett0007/blob/main/animation_500_kxa883sd.gif" alt="jjeett0007" /></p>
 
 
