@@ -1,150 +1,89 @@
-<h1 align="center">Hi 👋, I'm Jet</h1>
-<h3 align="center">A Fullstack Engineer</h3>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=EC6D13&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+JET+%F0%9F%91%8B;Full-Stack+Engineer;React+%7C+Next.js+%7C+Node.js+%7C+NestJS;Building+in+Fintech%2C+Edtech+%26+Web3" alt="Typing SVG" />
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=jjeett0007&label=Profile%20views&color=0e75b6&style=flat"
-    alt="jjeett0007" /> 
-  </p>
+![Profile Views](https://komarev.com/ghpvc/?username=jjeett0007&label=Profile%20Views&color=EC6D13&style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-EC6D13?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dosumu-olayinka-daniel-a2741124a/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-EC6D13?style=flat-square&logo=vercel&logoColor=white)](https://jet-new.vercel.app)
+[![Email](https://img.shields.io/badge/Email-Reach%20out-EC6D13?style=flat-square&logo=gmail&logoColor=white)](mailto:dosumuolayinka151@gmail.com)
 
-<br>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jjeett0007" alt="jet" /></a> </p>
+---
 
-<br>
+### About Me
 
-<p><img align="right" src="https://github.com/jjeett0007/jjeett0007/blob/main/animation_500_kxa883sd.gif" alt="jjeett0007" /></p>
+I'm a Full-Stack Engineer based in Lagos, Nigeria, with 4+ years shipping production software across fintech, edtech, e-commerce, and AI/Web3 SaaS. Currently building on the Macphini CRM/LMS platform at ENY Consulting & Advisory Services, and working remotely as a Full-Stack Developer at TRY MAGE since May 2023.
 
+- 🔭 Currently building AI-powered products, Web3 integrations, and CRM/LMS platforms
+- 🌱 Currently learning Go
+- 💬 Ask me about React/Next.js architecture, NestJS APIs, or Solana integrations
+- 📫 Reach me at **dosumuolayinka151@gmail.com**
 
-- 🌱 I’m currently learning Go
+---
 
-- 📫 How to reach me **apply_jet@yahoo.com**
+### Tech Stack
 
-<br>
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/dosumu-olayinka-daniel-a2741124a/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Olayinka Daniel" height="30" width="40" /></a>
-  <a href="https://instagram.com/jj_ee_tt" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="jjeett0007" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/jjeett0007" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="jjeett0007" height="30" width="40" /></a>
- <a href="https://twitter.com/horlahyinkah8" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="jjeett0007" height="30" width="40" /></a>
-</p>
+**Frontend**
 
-<br>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
+**Backend**
 
-<br>
-<h4 align="left">Frontend</h4>
-<p align="left"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="40" height="40" /> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-          <br>
-          <br>
-          <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" /> </a> </a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
-    rel="noreferrer"> 
-          <br>
-          <br>
-          <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-          <br>
-          <br>
-          <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40" /> </a>
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-          <br>
-          <br>
-          <img
-      src="https://camo.githubusercontent.com/769d64257e64f85884c9a580f9d6596b90349f20cf687e013eab5f4d28eddb0c/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f747970657363726970742d322e737667"
-      alt="react" width="40" height="40" /> </a>
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-          <br>
-          <br>
-          <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1280px-Nextjs-logo.svg.png"
-      alt="react" width="80" height="40" /> </a>
-       <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-           <br>
-           <br>
-           <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
-      height="40" /> </a> </p>
-        <a href="https://tailwindcss.com" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg">
-      <img alt="Tailwind CSS" src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg" width="350" height="70" style="max-width: 100%;">
-    </picture>
-  </a>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
-<br>
+**Database & Infra**
 
-<h4 align="left">Backend</h4>
-<p align="left"><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" width="80" height="80" /> </a></p>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-<br>
+**AI & Web3**
 
-<h4 align="left">Database</h4>
-<p align="left"><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png"
-      alt="mongodb" width="auto" height="40" /> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Firebase_Logo.svg/2560px-Firebase_Logo.svg.png"
-      alt="html5" width="auto" height="40" /> </a> </p>
+![Anthropic](https://img.shields.io/badge/Anthropic%20API-D4A574?style=for-the-badge&logo=anthropic&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
 
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=jjeett0007&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="jjeett0007" 
-    bg_color=#808080/></p>
+</div>
 
-<br>
+---
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jjeett0007&theme=github_dark" />
+### GitHub Stats
 
-<br>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jjeett0007&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=ojolowoblue"
-    alt="jjeett0007" /></p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=jjeett0007&show_icons=true&locale=en&bg_color=0d1117&title_color=EC6D13&icon_color=EC6D13&text_color=ffffff&border_color=EC6D13" alt="jjeett0007 stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjeett0007&layout=compact&locale=en&bg_color=0d1117&title_color=EC6D13&text_color=ffffff&border_color=EC6D13" alt="top langs" />
 
-<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jjeett0007&theme=dark&background=0d1117&border=EC6D13&ring=EC6D13&fire=EC6D13&date_format=M%20j%5B%2C%20Y%5D" alt="streak stats" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jjeett0007&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="jjeett0007" /></p>
-      
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+</div>
 
-[jjeett0007](https://github.com/jjeett0007)
+---
 
+### Connect With Me
 
+<div align="center">
 
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/dosumu-olayinka-daniel-a2741124a/)
+[![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/jj_ee_tt)
+[![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/horlahyinkah8)
+[![HackerRank](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg)](https://www.hackerrank.com/jjeett0007)
 
+</div>
 
-<!--
-**jjeett0007/jjeett0007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<sub>Built with coffee in Lagos, Nigeria</sub>
+</div>
