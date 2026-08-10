@@ -4,25 +4,78 @@
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=jjeett0007&label=Profile%20Views&color=EC6D13&style=flat-square)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-EC6D13?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dosumu-olayinka-daniel-a2741124a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-EC6D13?style=flat-square&logo=vercel&logoColor=white)](https://jet-new.vercel.app)
-[![Email](https://img.shields.io/badge/Email-Reach%20out-EC6D13?style=flat-square&logo=gmail&logoColor=white)](mailto:dosumuolayinka151@gmail.com)
+<img src="https://komarev.com/ghpvc/?username=jjeett0007&label=PROFILE+VIEWS&color=EC6D13&style=for-the-badge" alt="Profile Views" height="28">
+<a href="https://www.linkedin.com/in/dosumu-olayinka-daniel-a2741124a/"><img src="https://img.shields.io/badge/LINKEDIN-EC6D13?style=for-the-badge&logo=linkedin&logoColor=0a0a0d" height="28"></a>
+<a href="https://jet-new.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-EC6D13?style=for-the-badge&logo=vercel&logoColor=0a0a0d" height="28"></a>
+<a href="mailto:dosumuolayinka151@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EC6D13?style=for-the-badge&logo=gmail&logoColor=0a0a0d" height="28"></a>
 
 </div>
 
----
+<br>
 
 ### About Me
 
-I'm a Full-Stack Engineer based in Lagos, Nigeria, with 4+ years shipping production software across fintech, edtech, e-commerce, and AI/Web3 SaaS. Currently building on the Macphini CRM/LMS platform at ENY Consulting & Advisory Services, and working remotely as a Full-Stack Developer at TRY MAGE since May 2023.
+I'm a Full-Stack Engineer based in Lagos, Nigeria, with 4+ years shipping production software across fintech, edtech, e-commerce, and AI/Web3 SaaS. I'm currently building on the Macphini CRM/LMS platform at ENY Consulting & Advisory Services, and working remotely as a Full-Stack Developer at TRY MAGE since May 2023.
 
 - 🔭 Currently building AI-powered products, Web3 integrations, and CRM/LMS platforms
 - 🌱 Currently learning Go
 - 💬 Ask me about React/Next.js architecture, NestJS APIs, or Solana integrations
 - 📫 Reach me at **dosumuolayinka151@gmail.com**
 
----
+<br>
+
+### 🎮 Play a round while you're here
+
+<div align="center">
+
+I built a tiny unbeatable Tic-Tac-Toe AI just for visitors. GitHub won't let it run inline, so it lives on its own page — but it's one click away.
+
+<a href="https://jet-new.vercel.app/tic-tac-toe"><img src="https://img.shields.io/badge/▶_PLAY_TIC--TAC--TOE-0a0a0d?style=for-the-badge&labelColor=EC6D13&color=0a0a0d" height="36"></a>
+
+<sub>Minimax-powered, glass-UI, plays perfectly — good luck getting more than a draw.</sub>
+
+</div>
+
+<br>
+
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[Genesis AI](https://aigenesis.site)**
+AI-powered job application platform with Gmail integration and automated PDF generation — 5,000+ beta users.
+`Next.js` `AI Agents` `Gmail API`
+
+</td>
+<td width="50%" valign="top">
+
+**[Roma Intelligence](https://romaintel.org)**
+Nigeria's first self-serve research participant recruitment marketplace, with NIN verification and escrow payments.
+`Next.js` `Escrow` `Identity Verification`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**VotePay**
+Dashboard for organizations to run paid voting campaigns — public voting pages, live previews, campaign management.
+`Vite` `Tailwind` `Payments`
+
+</td>
+<td width="50%" valign="top">
+
+**CineChat**
+Claude-style AI movie discovery app — describe what you want to watch, get a streaming link back in chat.
+`Tauri` `Vercel AI SDK` `Streaming`
+
+</td>
+</tr>
+</table>
+
+<br>
 
 ### Tech Stack
 
@@ -58,7 +111,7 @@ I'm a Full-Stack Engineer based in Lagos, Nigeria, with 4+ years shipping produc
 
 </div>
 
----
+<br>
 
 ### GitHub Stats
 
@@ -69,20 +122,38 @@ I'm a Full-Stack Engineer based in Lagos, Nigeria, with 4+ years shipping produc
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jjeett0007&theme=dark&background=0d1117&border=EC6D13&ring=EC6D13&fire=EC6D13&date_format=M%20j%5B%2C%20Y%5D" alt="streak stats" />
 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jjeett0007&theme=onedark&row=1&column=6&margin-w=8" alt="trophies" /></a>
+
 </div>
 
----
+<br>
+
+<details>
+<summary><b>📈 Add the contribution snake (optional)</b></summary>
+<br>
+
+To get an animated snake eating your contribution graph, add a `.github/workflows/snake.yml` workflow using [Platane/snk](https://github.com/Platane/snk), then drop this in wherever you want it:
+
+```md
+![snake gif](https://raw.githubusercontent.com/jjeett0007/jjeett0007/output/github-contribution-grid-snake.svg)
+```
+
+</details>
+
+<br>
 
 ### Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/dosumu-olayinka-daniel-a2741124a/)
-[![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/jj_ee_tt)
-[![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/horlahyinkah8)
-[![HackerRank](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg)](https://www.hackerrank.com/jjeett0007)
+<a href="https://www.linkedin.com/in/dosumu-olayinka-daniel-a2741124a/"><img src="https://img.shields.io/badge/LinkedIn-EC6D13?style=for-the-badge&logo=linkedin&logoColor=0a0a0d" height="32"></a>
+<a href="https://instagram.com/jj_ee_tt"><img src="https://img.shields.io/badge/Instagram-EC6D13?style=for-the-badge&logo=instagram&logoColor=0a0a0d" height="32"></a>
+<a href="https://twitter.com/horlahyinkah8"><img src="https://img.shields.io/badge/Twitter-EC6D13?style=for-the-badge&logo=x&logoColor=0a0a0d" height="32"></a>
+<a href="https://www.hackerrank.com/jjeett0007"><img src="https://img.shields.io/badge/HackerRank-EC6D13?style=for-the-badge&logo=hackerrank&logoColor=0a0a0d" height="32"></a>
 
 </div>
+
+<br>
 
 <div align="center">
 <sub>Built with coffee in Lagos, Nigeria</sub>
